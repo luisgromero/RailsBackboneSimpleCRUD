@@ -1,0 +1,13 @@
+== README
+
+This is a simple Post app created in Ruby on Rails 4.0 using Backbone to display, create, update and remove content on a single page.
+
+Things you may want to cover:
+
+* Ruby version: 1.9.3p0 (2011-10-30)
+
+* Configuration: Make sure all gems dependencies are resolved by running --> bundle install
+
+* Database initialization: Run  rake db:migrate
+
+<tt>rake doc:app</tt>.
