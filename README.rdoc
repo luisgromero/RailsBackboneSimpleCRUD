@@ -6,8 +6,7 @@ Things you may want to cover:
 
 * Ruby version: 1.9.3p0 (2011-10-30)
 
-* Configuration: Make sure all gems dependencies are resolved by running --> bundle install
+* Configuration: Make sure all gems dependencies are resolved by running... <tt> bundle install </tt>
 
-* Database initialization: Run  rake db:migrate
+* Database initialization: Run  <tt>rake db:migrate </tt>
 
-<tt>rake doc:app</tt>.
